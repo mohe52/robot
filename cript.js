@@ -3,7 +3,7 @@ let tex=1;
 let c=1;
 let x=document.getElementById("kg1");
 let y=document.getElementById("kg2");
-  setInterval( fun1,100); 
+  setInterval( fun1,500); 
   
 function fun(m1) 
       {  
